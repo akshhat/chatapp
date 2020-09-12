@@ -1,6 +1,6 @@
 # chat-app
 
-> A Vue.js project
+The ChatApp is a cloud-based real-time chatting platform that helps in communication with teams. It comes with a single chat-room that anyone can join by entering their name and join the conversation. It is built using Vue.js on the front-end and Firestore (Google's cloud-based database) on the back-end. This cloud-based architecture combined with Vue's powerful components gives the user an intuitive and immersive chatting experience.
 
 ## Build Setup
 
